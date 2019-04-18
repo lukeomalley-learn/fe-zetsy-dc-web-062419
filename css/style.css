@@ -45,3 +45,7 @@ img {
 .logo {
   display: inline;
 }
+
+.logo:hover {
+   border-color: purple;
+}
