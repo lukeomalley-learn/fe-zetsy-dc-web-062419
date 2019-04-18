@@ -52,3 +52,7 @@ img {
 .link:hover {
   border-color: #393939;
 }
+
+.copyright {
+  align: right;
+}
