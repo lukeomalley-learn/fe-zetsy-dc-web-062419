@@ -36,7 +36,7 @@ img {
   
 }
 
-.logo {
+div .logo {
   display: inline;
   border-style: solid;
   border-width: 2px;
