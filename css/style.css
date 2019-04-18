@@ -1,10 +1,8 @@
 /*////////////// Fonts //////////////*/
 
 @font-face {
-  font-family: "Baskerville";
-  font-style: normal;
-  font-weight: 400;
-  local: "./fonts/Baskerville.ttc"
+    font-family: 'Font'; /*a name to be used later*/
+    src: url('./fonts/'); /*URL to font*/
 }
 
 /*////////// Global Styles //////////*/
