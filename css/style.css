@@ -46,6 +46,9 @@ img {
   display: inline;
 }
 
+.link {
+  width: 25%;
+}
 .link:hover {
   border-color: #393939;
 }
