@@ -46,6 +46,6 @@ img {
   display: inline;
 }
 
-.logo:hover {
-   border-color: purple;
+.img:hover {
+  border-color: #393939;
 }
